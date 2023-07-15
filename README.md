@@ -1,14 +1,6 @@
 ## Olá, eu sou o Jhone. Seja bem vindo(a) ao meu perfil! 👋
 </br>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=jhonerodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-    />
-  </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
