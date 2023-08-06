@@ -14,12 +14,10 @@
 ## Sobre mim 👀
 <div>
 <img src="https://user-images.githubusercontent.com/110574688/229301646-f73c7fc1-8f84-4f41-9b32-97e58640a760.gif" align="right" width="100" height="200"/>
-<p>- 👨‍💻 Me descobri um informata após criar uma marca de roupa focada em Skatistas, aonde desenvolvi diversas
-    habilidades para produção de conteúdo no instagram. Com o tempo percebi que gostava de ficar horas na
-    frente de um computador, então resumindo, tomei a decisão de me realocar profissionalmente.</p>
-<p>- 📚 Cursando Análise e desenvolvimento de sistemas.</p>
-<p>- 🎯 Interesses: Desenvolvimento Back-end em Java.</p>
-<p>- 🛹 Gosto de andar de Skate para relaxar ou até ganhar alguns roxos na canela haha.</p>
+<p>- 👨‍💻 Após criar uma marca de roupas focada em Skatistas, descobri minha paixão pela informática. Desenvolvi diversas habilidades na produção de conteúdo para o Instagram, mas com o tempo percebi que minha verdadeira vocação estava em passar horas na frente de um computador. Decidi, então, me realocar profissionalmente nessa área que tanto me fascina.</p>
+<p>- 📚 Cursando Análise e desenvolvimento de sistemas</p>
+<p>- 🎯 Foco atual: Desenvolvimento Back-end</p>
+<p>- 🛹 Curto demais andar de skate para relaxar e, às vezes, ganhar alguns roxos na canela, haha!</p>
 </div>
   
 ## Outras redes 🌐
